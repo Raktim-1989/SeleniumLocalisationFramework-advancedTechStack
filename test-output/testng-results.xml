@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12810" started-at="2021-11-28T21:39:11 IST" finished-at="2021-11-28T21:39:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12810" started-at="2021-11-28T21:39:11 IST" finished-at="2021-11-28T21:39:24 IST">
+      <class name="mytests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mytests.HomePageTest@436e852b]" name="setUp" is-config="true" duration-ms="11265" started-at="2021-11-28T21:39:11 IST" finished-at="2021-11-28T21:39:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="headerTest()[pri:1, instance:mytests.HomePageTest@436e852b]" name="headerTest" duration-ms="223" started-at="2021-11-28T21:39:23 IST" finished-at="2021-11-28T21:39:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerTest -->
+        <test-method status="PASS" signature="contactTest()[pri:2, instance:mytests.HomePageTest@436e852b]" name="contactTest" duration-ms="119" started-at="2021-11-28T21:39:23 IST" finished-at="2021-11-28T21:39:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mytests.HomePageTest@436e852b]" name="tearDown" is-config="true" duration-ms="1117" started-at="2021-11-28T21:39:23 IST" finished-at="2021-11-28T21:39:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mytests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
